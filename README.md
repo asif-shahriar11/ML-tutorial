@@ -1,1 +1,1 @@
-- Kaggle-DL: Kaggle's introduction to DL course. Note that in the data folder, the songs.csv file is not available due to github size constraints.
+- **Kaggle-DL:** Kaggle's introduction to DL course. Note that in the `data` folder, the `songs.csv` file is not available due to github size constraints.
